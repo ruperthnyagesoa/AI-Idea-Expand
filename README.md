@@ -47,6 +47,6 @@ Feel free to explore and get inspiration for your next data-related project!
 
    ```bash
    streamlit run app.py
-## UI ![Screenshot (9)]()
+## UI ![Screenshot (9)](aid.png)
 ---
 
